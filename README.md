@@ -39,6 +39,7 @@ It is specially optimized for broken filesystems, and can recover as much as pos
 
 * Michael Steil
 * Sigurbjorn B. Larusson
+* Martin 'BruXy' Bruchanov (update of C header files for GNU/Linux compilation)
 
 ## History
 
